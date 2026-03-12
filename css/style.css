@@ -8,3 +8,9 @@
 .logo{
     width: 70px;
 }
+tr > td:nth-child(2){
+    display: none;
+}
+tr > th:nth-child(2){
+    display: none;
+}
