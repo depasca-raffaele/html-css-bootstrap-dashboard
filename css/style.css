@@ -14,3 +14,8 @@ tr > td:nth-child(2){
 tr > th:nth-child(2){
     display: none;
 }
+@media screen and (min-width: 992px){
+    .navbar-nav{
+        font-size: x-large;
+    }
+}
